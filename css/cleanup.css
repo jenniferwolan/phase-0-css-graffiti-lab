@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: center;
+    margin: auto;
+    height: 12px;
+    width: 30px;
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 15px solid white;
+  }
+  #wall .tag-2 {
+    display: left;
+    margin: center;
+    height: 100px;
+    width: 50px;
+    border: 50px purple;
+  }
